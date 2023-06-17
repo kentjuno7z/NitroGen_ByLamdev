@@ -40,7 +40,7 @@ colorama.init(autoreset=True)
 
 import os, threading
 def set_title():
-  title = "Nitro Gen/Checker by Pro8l3m"
+  title = "Nitro Gen/Checker by Lamdev"
   try:
     import requests
     text = str("")
