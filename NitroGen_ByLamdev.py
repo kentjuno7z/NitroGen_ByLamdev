@@ -6,7 +6,7 @@ def print015(text):
         time.sleep(0.015)
     sys.stdout.write("\n")
 
-def print01(text):
+def print01(text):  
     for c in text:
         sys.stdout.write(c)
         sys.stdout.flush()
